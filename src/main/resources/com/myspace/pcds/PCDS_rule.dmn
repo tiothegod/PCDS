@@ -115,7 +115,7 @@
           <dmn:text>"FALSE"</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_02AF7B12-7474-4959-AD39-1718160280C6">
-          <dmn:text>"Dosing'</dmn:text>
+          <dmn:text>"Dosing"</dmn:text>
         </dmn:outputEntry>
       </dmn:rule>
       <dmn:rule id="_ADCC24AA-1976-4D6C-98CD-D73F1CB9E533">
