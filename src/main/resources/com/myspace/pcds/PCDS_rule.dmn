@@ -56,6 +56,7 @@
       </dmn:input>
       <dmn:output id="_212EB072-69DA-41F6-A551-C30F02192683" typeRef="string"/>
       <dmn:rule id="_E485D3E1-E94C-42DC-9EB7-9B1DC7270A52">
+        <dmn:description>bpad_mood_stabilizer</dmn:description>
         <dmn:inputEntry id="_E2D66432-62B7-4164-8335-47941C06C8DB">
           <dmn:text>TRUE</dmn:text>
         </dmn:inputEntry>
@@ -76,6 +77,7 @@
         </dmn:outputEntry>
       </dmn:rule>
       <dmn:rule id="_9E6B7E6F-1F25-49DD-8629-F3EF6AF4A364">
+        <dmn:description>adhd_stimulant</dmn:description>
         <dmn:inputEntry id="_82A273E9-4EDE-4434-9245-AF647BD9F37D">
           <dmn:text>FALSE</dmn:text>
         </dmn:inputEntry>
@@ -96,6 +98,7 @@
         </dmn:outputEntry>
       </dmn:rule>
       <dmn:rule id="_EB6CBF66-DF4D-4ABE-85FD-2C8AB7DC5553">
+        <dmn:description>mdd_subtherapeutic</dmn:description>
         <dmn:inputEntry id="_F86B8567-5A39-48F7-94A1-1C2E5D193BEA">
           <dmn:text>TRUE</dmn:text>
         </dmn:inputEntry>
@@ -116,6 +119,7 @@
         </dmn:outputEntry>
       </dmn:rule>
       <dmn:rule id="_ADCC24AA-1976-4D6C-98CD-D73F1CB9E533">
+        <dmn:description>mdd_subtherapeutic</dmn:description>
         <dmn:inputEntry id="_9E556B28-86BA-4F63-A205-A52032E92CAE">
           <dmn:text>TRUE</dmn:text>
         </dmn:inputEntry>
