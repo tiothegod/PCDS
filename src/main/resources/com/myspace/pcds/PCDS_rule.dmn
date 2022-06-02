@@ -67,7 +67,7 @@
           <dmn:text>"F31.81"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_A6E27C74-ABAF-434D-9D83-0FA3F324088E">
-          <dmn:text></dmn:text>
+          <dmn:text>""</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_A05B337B-85E4-4F57-9B9F-93FED0AA93F1">
           <dmn:text>"FALSE"</dmn:text>
@@ -109,7 +109,7 @@
           <dmn:text>"F31.*"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_BC73A94C-0B39-49DB-8D3C-35C49FA73AEE">
-          <dmn:text></dmn:text>
+          <dmn:text>""</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_5AE2DD2B-9467-491B-AC9C-858693D8B61E">
           <dmn:text>"FALSE"</dmn:text>
@@ -130,7 +130,7 @@
           <dmn:text>"F31.*"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_D033C828-4EBE-42A7-A56F-F85F44E1031A">
-          <dmn:text></dmn:text>
+          <dmn:text>""</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_D064F6F9-42EF-40FF-B6E1-8114FAB2E8A3">
           <dmn:text>"FALSE"</dmn:text>
