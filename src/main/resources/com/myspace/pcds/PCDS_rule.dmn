@@ -23,7 +23,7 @@
   </dmn:inputData>
   <dmn:decision id="_CA2B8422-0852-480F-AF86-FCBDFFF4368B" name="Alert?">
     <dmn:question>Need to alert?</dmn:question>
-    <dmn:allowedAnswers>Yes,No</dmn:allowedAnswers>
+    <dmn:allowedAnswers>Require,Dosing</dmn:allowedAnswers>
     <dmn:variable id="_AF40C270-2927-4B9E-A6F5-74AC1C0E435E" name="Alert?" typeRef="string"/>
     <dmn:informationRequirement id="_0DF61F16-F2F7-433E-BB54-C96A01BE15C6">
       <dmn:requiredInput href="#_CF3EFDF8-276A-4826-B64F-F25C2A42247C"/>
